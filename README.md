@@ -10,6 +10,8 @@ https://s3.amazonaws.com/research.metamind.io/wikitext/wikitext-103-raw-v1.zip
 
 Sample.txt
 
+\* Make sure you have the Sample.txt file and the wikitext-103-raw folder to run the code.
+
 ## Step 1
 
 * Explaning of BPE & WordPiece
