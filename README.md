@@ -8,7 +8,7 @@ http://www.gutenberg.org/cache/epub/16457/pg16457.txt
 
 https://s3.amazonaws.com/research.metamind.io/wikitext/wikitext-103-raw-v1.zip
 
-(Sample.txt)[https://github.com/parnianf/BytePerEncoding-And-WordPiece-Tokenizer-Implementation/blob/main/Sample.txt]
+[Sample.txt](https://github.com/parnianf/BytePerEncoding-And-WordPiece-Tokenizer-Implementation/blob/main/Sample.txt)
 
 \* Make sure you have the Sample.txt file and the wikitext-103-raw folder to run the code.
 
