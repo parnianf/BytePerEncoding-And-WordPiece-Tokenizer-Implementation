@@ -29,3 +29,7 @@ Sample.txt
 * Analyzing the results
 
 
+## Report
+Report is available [here](https://github.com/parnianf/BytePerEncoding-And-WordPiece-Tokenizer-Implementation/blob/main/NLP-CA1-Report-English.pdf).
+
+
